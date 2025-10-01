@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./assignments/working_with_"
+    ]
+}
